@@ -1,0 +1,37 @@
+{
+  "name": "crudandauth",
+  "version": "1.0.0",
+  "main": "app_passport_mysql.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "express-mysql-session": "^1.1.1",
+    "express-session": "^1.13.0",
+    "jade": "^1.11.0",
+    "md5": "^2.1.0",
+    "mysql": "^2.11.1",
+    "passport": "^0.3.2",
+    "passport-facebook": "^2.1.1",
+    "passport-google-oauth": "^1.0.0",
+    "passport-kakao": "0.0.3",
+    "passport-local": "^1.0.0",
+    "pbkdf2-password": "^1.1.0",
+    "session-file-store": "^0.2.0",
+    "sha256": "^0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eechul/nodejs_CRUDandAuth.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Eechul/nodejs_CRUDandAuth/issues"
+  },
+  "homepage": "https://github.com/Eechul/nodejs_CRUDandAuth#readme",
+  "description": ""
+}
